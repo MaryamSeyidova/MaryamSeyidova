@@ -18,8 +18,7 @@ Credits and references used in this README:
 Senior Designer creating unique, engaging designs across platforms.
 Experienced in Adobe Creative Suite (Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro,
 After Effects), Figma, Sketch and Jitter. Proficient in front-end development with HTML, CSS, and JavaScript using
-Visual Studio Code and Git. Strong communicator with experience collaborating directly with clients to deliver high-
-quality, customized solutions (Intern @ Axe Digital Group and Freelance).
+Visual Studio Code and Git. Strong communicator with experience collaborating directly with clients to deliver high-quality, customized solutions (Intern @ Axe Digital Group and Freelance).
 Ready to use fresh ideas to take on any challenge presented!
 
 
@@ -92,7 +91,7 @@ Ready to use fresh ideas to take on any challenge presented!
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**Portfolio**](https://maryamseyidova.wixsite.com/portfolio)
 - [**Contact**](mailto:maryam.seyidova@gmail.com)
 
 <a href="https://www.linkedin.com/in/maryam-seyidova/" target="blank">
@@ -103,4 +102,4 @@ Ready to use fresh ideas to take on any challenge presented!
 </a>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh1aHhyb3l6eWt0amQ4NWtiMjQ2bjZ1amw3dDIwYWN0MDY5OXZiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzALYeLqMLDa6PEV2C/giphy.gif)
