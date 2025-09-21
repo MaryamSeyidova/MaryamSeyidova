@@ -1,16 +1,106 @@
-## Hi there 👋
-
 <!--
-**MaryamSeyidova/MaryamSeyidova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Credits and references used in this README:
 
-Here are some ideas to get you started:
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
+
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
 -->
+
+# Maryam Seyidova
+**`Graphic, UXUI, Product Designer`** 
+
+## About Me
+Senior Designer creating unique, engaging designs across platforms.
+Experienced in Adobe Creative Suite (Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro,
+After Effects), Figma, Sketch and Jitter. Proficient in front-end development with HTML, CSS, and JavaScript using
+Visual Studio Code and Git. Strong communicator with experience collaborating directly with clients to deliver high-
+quality, customized solutions (Intern @ Axe Digital Group and Freelance).
+Ready to use fresh ideas to take on any challenge presented!
+
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,illustrator,photoshop,figma&theme=light)](https://skillicons.dev)
+
+---
+
+## Projects - showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://maryamseyidova.github.io/Dodo-main/pages/index.html">
+        <img src="https://maryamseyidova.github.io/Dodo-main/pages/index.html"
+             alt="Dodo Personal Assistant"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Dodo Personal Assistant</b><br/>
+      <sub>A fun note taking, personalised app covering 4 topics: study, break, taking medication, gym</sub><br/>
+        <a href="https://maryamseyidova.github.io/Dodo-main/pages/index.html">Repo</a>
+      <br/>
+      <sub>Tags: Html, Css, Js</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://maryamseyidova.wixsite.com/portfolio">
+        <img src="https://maryamseyidova.wixsite.com/portfolio"
+             alt="Slime Rancher Mobile App UX"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Slime Rancher Mobile App UX</b><br/>
+      <sub>A mobile app designed for users to track their slime-collecting journey, chat with friends, and stay connected even when away from PC</sub><br/>
+        <a href="https://maryamseyidova.wixsite.com/portfolio">Repo</a>
+      <br/>
+      <sub>Portfolio</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://maryamseyidova.wixsite.com/portfolio">
+        <img src="https://maryamseyidova.wixsite.com/portfolio"
+             alt="Flow Fund Mobile App UX"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Flow Fund Mobile App UX</b><br/>
+      <sub>Collaborating on a mobile version of Banking application for safe & fast transactions internationally</sub><br/>
+         <a href="https://maryamseyidova.wixsite.com/portfolio">Repo</a>
+      <br/>
+      <sub>Tags: Figma, Networking, Security</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamSeyidova&show_icons=true&theme=gruvbox)
+
+---
+
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**Contact**](mailto:maryam.seyidova@gmail.com)
+
+<a href="https://www.linkedin.com/in/maryam-seyidova/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/ux_bymaryam/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
