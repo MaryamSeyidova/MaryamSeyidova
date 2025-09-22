@@ -25,7 +25,7 @@ Ready to use fresh ideas to take on any challenge presented!
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,illustrator,photoshop,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,git,github,html,css,javascript,illustrator,photoshop,figma&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -35,40 +35,40 @@ Ready to use fresh ideas to take on any challenge presented!
   <tr>
     <td align="center" width="33%">
       <a href="https://maryamseyidova.github.io/Dodo-main/pages/index.html">
-        <img src="https://maryamseyidova.github.io/Dodo-main/pages/index.html"
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2EyYmxmeGg0bWN3OHE0ZDZsMng3YWRwMGV5MWM1N28yZXRtaHFpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rkeCjUYWhAiZ88pPxP/giphy.gif"
              alt="Dodo Personal Assistant"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Dodo Personal Assistant</b><br/>
       <sub>A fun note taking, personalised app covering 4 topics: study, break, taking medication, gym</sub><br/>
-        <a href="https://maryamseyidova.github.io/Dodo-main/pages/index.html">Repo</a>
+        <a href="https://maryamseyidova.github.io/Dodo-main/pages/index.html">Dodo</a>
       <br/>
       <sub>Tags: Html, Css, Js</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://maryamseyidova.wixsite.com/portfolio">
-        <img src="https://maryamseyidova.wixsite.com/portfolio"
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VlYXJ6OTh3bTR6dHhrN2xzamgxdjZzejhqNWVqN3IxaGh6Y284eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h7TitgVu925X3QOBdu/giphy.gif"
              alt="Slime Rancher Mobile App UX"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Slime Rancher Mobile App UX</b><br/>
       <sub>A mobile app designed for users to track their slime-collecting journey, chat with friends, and stay connected even when away from PC</sub><br/>
-        <a href="https://maryamseyidova.wixsite.com/portfolio">Repo</a>
+        <a href="https://maryamseyidova.wixsite.com/portfolio">Slime Rancher</a>
       <br/>
       <sub>Portfolio</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://maryamseyidova.wixsite.com/portfolio">
-        <img src="https://maryamseyidova.wixsite.com/portfolio"
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVmdDNvamViNmhkajM2eGZ2Yzdza3NlOWF1bXNsdGhsb3NnNWZmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Q2BDIf2mv5IXeHBuH/giphy.gif"
              alt="Flow Fund Mobile App UX"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Flow Fund Mobile App UX</b><br/>
       <sub>Collaborating on a mobile version of Banking application for safe & fast transactions internationally</sub><br/>
-         <a href="https://maryamseyidova.wixsite.com/portfolio">Repo</a>
+         <a href="https://maryamseyidova.wixsite.com/portfolio">Flow Fund</a>
       <br/>
       <sub>Tags: Figma, Networking, Security</sub>
     </td>
@@ -84,7 +84,7 @@ Ready to use fresh ideas to take on any challenge presented!
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamSeyidova&show_icons=true&theme=gruvbox)
+![Maryam' GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamSeyidova&show_icons=true&theme=gruvbox)
 
 ---
 
