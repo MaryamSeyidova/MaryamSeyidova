@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # Maryam Seyidova
-**`Graphic, UXUI, Product Designer`** 
+**`Graphic, UXUI, Game Designer`** 
 
 ## About Me
 Senior Designer creating unique, engaging designs across platforms.
