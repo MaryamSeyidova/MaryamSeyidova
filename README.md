@@ -74,17 +74,6 @@ Recently diving into game development with Unity, C#, and Blender. I enjoy colla
 
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maryam' GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamSeyidova&show_icons=true&theme=gruvbox)
-
----
-
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
