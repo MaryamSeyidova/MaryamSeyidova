@@ -15,8 +15,8 @@ Credits and references used in this README:
 **`Graphic, UXUI, Game Designer`** 
 
 ## About Me
-Senior Designer creating engaging designs across platforms. Experienced in Adobe Creative Suite (Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro, After Effects), Figma, Sketch, and Jitter. Skilled in front-end development with HTML, CSS, and JavaScript.
-Recently diving into game development with Unity, C#, and Blender. I enjoy collaborating with clients and teams to bring fresh ideas to life and tackle new creative challenges.
+Senior Designer creating engaging designs across platforms. Experienced in Adobe Creative Suite (Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro, After Effects), Figma, Sketch, and Jitter. Front-End & Software development with HTML, CSS, and JavaScript.
+Recently diving into game development with Unity, C#, Godot and Blender. I enjoy collaborating with clients and teams to bring fresh ideas to life and tackle new creative challenges.
 
 
 ## Skill stack
@@ -86,6 +86,3 @@ Recently diving into game development with Unity, C#, and Blender. I enjoy colla
 <a href="https://www.instagram.com/ux_bymaryam/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
-
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh1aHhyb3l6eWt0amQ4NWtiMjQ2bjZ1amw3dDIwYWN0MDY5OXZiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzALYeLqMLDa6PEV2C/giphy.gif)
