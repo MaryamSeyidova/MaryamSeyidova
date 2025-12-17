@@ -58,16 +58,16 @@ Recently diving into game development with Unity, C#, Godot and Blender. I enjoy
     </td>
     <td align="center" width="33%">
       <a href="https://maryamseyidova.wixsite.com/portfolio">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVmdDNvamViNmhkajM2eGZ2Yzdza3NlOWF1bXNsdGhsb3NnNWZmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Q2BDIf2mv5IXeHBuH/giphy.gif"
-             alt="Flow Fund Mobile App UX"
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhjeDkwdDcybjU2bDJiZmRjNWhuZWhlbnAxcXpscmp3NDdremxxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GMBiHA77b0yG5C4flI/giphy.gif"
+             alt="Polar Flux"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Flow Fund Mobile App UX</b><br/>
-      <sub>Collaborating on a mobile version of Banking application for safe & fast transactions internationally</sub><br/>
-         <a href="https://maryamseyidova.wixsite.com/portfolio">Flow Fund</a>
+      <b>Polar Flux</b><br/>
+      <sub>UI & UX design exploration for a game jam, currently in development. The goal is to design a user-friendly experience that keeps players engaged.</sub><br/>
+         <a href="https://maryamseyidova.wixsite.com/portfolio">Polar Flux</a>
       <br/>
-      <sub>Tags: Figma, Networking, Security</sub>
+      <sub>Tags: Figma, Unity, Godot, Illlustrator, Photoshop, Jira</sub>
     </td>
   </tr>
 </table>
