@@ -22,7 +22,7 @@ Recently diving into game development with Unity, C#, Godot and Blender. I enjoy
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=notion,git,github,html,css,javascript,unity,godot,illustrator,photoshop,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,git,github,html,css,javascript,unity,godot,blender,illustrator,photoshop,figma&theme=light)](https://skillicons.dev)
 
 ---
 
