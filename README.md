@@ -64,7 +64,7 @@ Recently diving into game development with Unity, C#, Godot and Blender. I enjoy
       </a>
       <br/>
       <b>BrackeysJam2026</b><br/>
-      <sub>"Cat Catcher" is a 2D side-scrolling endless runner game.</sub><br/>
+      <sub>"Cat Catcher" is a 2D side-scrolling endless runner game that was made during the game jam (7days).</sub><br/>
          <a href="https://ux-bymaryam.itch.io/cat-catcher">BrackeysJam2026</a>
       <br/>
       <sub>Tags: Figma, Unity, Illlustrator/ Affinity, Jira</sub>
