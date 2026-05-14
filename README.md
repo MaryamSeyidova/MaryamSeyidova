@@ -58,16 +58,16 @@ Recently diving into game development with Unity, C#, Godot and Blender. I enjoy
     </td>
     <td align="center" width="33%">
       <a href="https://maryamseyidova.wixsite.com/portfolio">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhjeDkwdDcybjU2bDJiZmRjNWhuZWhlbnAxcXpscmp3NDdremxxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GMBiHA77b0yG5C4flI/giphy.gif"
-             alt="Polar Flux"
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAyb3p5Y3k3ajg3bWVpNnRobW1jNGo4eWRuM2VpdDVicTdweXNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iK5Q05vo5KRrH3yniB/giphy.gif"
+             alt="BrackeysJam2026"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Polar Flux</b><br/>
-      <sub>UI & UX design exploration for a game jam, currently in development. The goal is to design a user-friendly experience that keeps players engaged.</sub><br/>
-         <a href="https://maryamseyidova.wixsite.com/portfolio">Polar Flux</a>
+      <b>BrackeysJam2026</b><br/>
+      <sub></sub><br/>
+         <a href="https://maryamseyidova.wixsite.com/portfolio">BrackeysJam2026</a>
       <br/>
-      <sub>Tags: Figma, Unity, Godot, Illlustrator, Photoshop, Jira</sub>
+      <sub>Tags: Figma, Unity, Illlustrator/ Affinity, Jira</sub>
     </td>
   </tr>
 </table>
