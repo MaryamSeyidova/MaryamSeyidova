@@ -77,7 +77,7 @@ Recently diving into game development and playful designs with Unity, C#, Godot 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://maryamseyidova.wixsite.com/portfolio)
+- [**Portfolio**](https://linktr.ee/maryam_seyidova2005?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAafW1io8V7Kf2FTZfY2s8qrXlW4MhniouENSDl8-DDb-67Min1-vOX1TiOu3Lg_aem_CKD0T41n-5Ax1l6HeDDroA)
 - [**Contact**](mailto:maryam.seyidova@gmail.com)
 
 <a href="https://www.linkedin.com/in/maryam-seyidova/" target="blank">
