@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # Maryam Seyidova
-**` UXUI, Graphic & Game Designer`** 
+**` UXUI & Graphic Designer`** 
 
 ## About Me
 Senior Graphic & UXUI Designer creating engaging designs across platforms. Experienced in Adobe Creative Suite (Photoshop, Illustrator, InDesign, Premiere Pro, After Effects), Figma, Sketch, and Jitter. Front-End & Software development with HTML, CSS, and JavaScript.
