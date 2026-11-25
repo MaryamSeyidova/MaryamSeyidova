@@ -15,8 +15,8 @@ Credits and references used in this README:
 **` UXUI, Graphic & Game Designer`** 
 
 ## About Me
-Senior Designer creating engaging designs across platforms. Experienced in Adobe Creative Suite (Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro, After Effects), Figma, Sketch, and Jitter. Front-End & Software development with HTML, CSS, and JavaScript.
-Recently diving into game development with Unity, C#, Godot and Blender. I enjoy collaborating with clients and teams to bring fresh ideas to life and tackle new creative challenges.
+Senior Graphic & UXUI Designer creating engaging designs across platforms. Experienced in Adobe Creative Suite (Photoshop, Illustrator, InDesign, Premiere Pro, After Effects), Figma, Sketch, and Jitter. Front-End & Software development with HTML, CSS, and JavaScript.
+Recently diving into game development and playful designs with Unity, C#, Godot and Blender. I enjoy collaborating with clients and teams to bring fresh ideas to life and tackle new creative challenges.
 
 
 ## Skill stack
